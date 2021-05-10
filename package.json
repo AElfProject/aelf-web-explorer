@@ -22,7 +22,7 @@
     "echarts": "^4.2.0-rc.1",
     "echarts-for-react": "^2.0.14",
     "js-cookie": "^2.2.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "lodash.debounce": "^4.0.8",
     "lodash.throttle": "^4.1.1",
     "mobx": "^5.1.1",
